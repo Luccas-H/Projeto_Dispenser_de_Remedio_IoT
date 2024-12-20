@@ -77,11 +77,11 @@ A metodologia utilizada será baseada em testes manuais, com foco em testes func
 ## 5. Fotos do Circuito
 - **Circuito TinkerCad**:
   
-  ![Circuito TinkerCad](images/Circuito_Simulacao_cad.png)
+  ![Circuito Fisico](../images/Circuito_Simulacao_cad.png)
   
 - **Montagem do Circuito**:
   
-  ![Circuito TinkerCad](images/foto_circuito.jpeg)
+  ![Circuito Fisico](../images/foto_circuito_refatorado.jpeg)
   
 ## 6. Conclusão
 
